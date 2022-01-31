@@ -1,0 +1,1033 @@
+@font-face {
+  font-family: 'DStv-com-icons';
+  src:  url('https://d1azc1qln24ryf.cloudfront.net/128885/DStv-com/DStv-com-icons.eot?o6q0m5');
+  src:  url('https://d1azc1qln24ryf.cloudfront.net/128885/DStv-com/DStv-com-icons.eot?o6q0m5#iefix') format('embedded-opentype'),
+    url('https://d1azc1qln24ryf.cloudfront.net/128885/DStv-com/DStv-com-icons.woff2?o6q0m5') format('woff2'),
+    url('https://d1azc1qln24ryf.cloudfront.net/128885/DStv-com/DStv-com-icons.ttf?o6q0m5') format('truetype'),
+    url('https://d1azc1qln24ryf.cloudfront.net/128885/DStv-com/DStv-com-icons.woff?o6q0m5') format('woff'),
+    url('https://d1azc1qln24ryf.cloudfront.net/128885/DStv-com/DStv-com-icons.svg?o6q0m5#DStv-com-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'DStv-com-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-circle_profile:before {
+  content: "\ea4d";
+}
+.icon-play_icon_24px:before {
+  content: "\ea29";
+}
+.icon-qr_code_24px:before {
+  content: "\ea2c";
+}
+.icon-tv_explora_24px:before {
+  content: "\ea2f";
+}
+.icon-whatsapp-circle:before {
+  content: "\ea4a";
+}
+.icon-decoder_circle:before {
+  content: "\ea41";
+}
+.icon-mail_circle:before {
+  content: "\ea42";
+}
+.icon-phone_circle:before {
+  content: "\ea43";
+}
+.icon-phone_mail_circle:before {
+  content: "\ea44";
+}
+.icon-phone_notification_circle:before {
+  content: "\ea45";
+}
+.icon-socialmedia_circle:before {
+  content: "\ea46";
+}
+.icon-clock_32x32:before {
+  content: "\ea32";
+}
+.icon-add-security:before {
+  content: "\ea48";
+}
+.icon-play_icon_32px:before {
+  content: "\ea2a";
+}
+.icon-qr_code_32px:before {
+  content: "\ea2d";
+}
+.icon-tv_explora_32px:before {
+  content: "\ea30";
+}
+.icon-Tick_L:before {
+  content: "\ea3c";
+}
+.icon-pvr-access:before {
+  content: "\e9bb";
+}
+.icon-star_outline:before {
+  content: "\e9ad";
+}
+.icon-star_full:before {
+  content: "\e9ae";
+}
+.icon-barcode:before {
+  content: "\e9af";
+}
+.icon-available-ex1:before {
+  content: "\e9b0";
+}
+.icon-change-package1:before {
+  content: "\e9b1";
+}
+.icon-email:before {
+  content: "\e99d";
+}
+.icon-instagram:before {
+  content: "\e99e";
+}
+.icon-Accordian_minus:before {
+  content: "\e987";
+}
+.icon-Accordian_plus:before {
+  content: "\e988";
+}
+.icon-Arrow_down:before {
+  content: "\e989";
+}
+.icon-Arrow_left_thin:before {
+  content: "\e98a";
+}
+.icon-Arrow_left:before {
+  content: "\e98b";
+}
+.icon-Arrow_right_thin:before {
+  content: "\e98c";
+}
+.icon-Arrow_right:before {
+  content: "\e98d";
+}
+.icon-Back_arrow:before {
+  content: "\e98e";
+}
+.icon-Close_L:before {
+  content: "\e98f";
+}
+.icon-Close_large:before {
+  content: "\e990";
+}
+.icon-Close_M:before {
+  content: "\e991";
+}
+.icon-Dropdown_down:before {
+  content: "\e992";
+}
+.icon-Dropdown_up:before {
+  content: "\e993";
+}
+.icon-ico-call-2:before {
+  content: "\e994";
+}
+.icon-ico-compare:before {
+  content: "\e995";
+}
+.icon-ico-more:before {
+  content: "\e996";
+}
+.icon-ico-statements:before {
+  content: "\e997";
+}
+.icon-ico-tick:before {
+  content: "\e998";
+}
+.icon-ico-transaction-history:before {
+  content: "\e999";
+}
+.icon-Residential:before {
+  content: "\e99a";
+}
+.icon-Tick_large:before {
+  content: "\e99b";
+}
+.icon-Facebook:before {
+  content: "\e984";
+}
+.icon-Twitter:before {
+  content: "\e985";
+}
+.icon-YouTube:before {
+  content: "\e986";
+}
+.icon-BoxOffice:before {
+  content: "\e97e";
+}
+.icon-Holiday_home_thin:before {
+  content: "\e97f";
+}
+.icon-Holiday_home:before {
+  content: "\e980";
+}
+.icon-Pricelock:before {
+  content: "\e981";
+}
+.icon-Total_amount:before {
+  content: "\e982";
+}
+.icon-family-funeral:before {
+  content: "\ea4e";
+}
+.icon-transfer-data:before {
+  content: "\ea4b";
+}
+.icon-my-dstv:before {
+  content: "\ea47";
+}
+.icon-dstv-internet_rewards:before {
+  content: "\ea3f";
+}
+.icon-add-ons_rewards:before {
+  content: "\ea40";
+}
+.icon-dstv-insurance-rewards:before {
+  content: "\ea3e";
+}
+.icon-dstv-trusted-home:before {
+  content: "\ea3d";
+}
+.icon-mac-os_32px:before {
+  content: "\ea36";
+}
+.icon-android_32px:before {
+  content: "\ea37";
+}
+.icon-wifi-connection_32px:before {
+  content: "\ea38";
+}
+.icon-dimension_32px:before {
+  content: "\ea39";
+}
+.icon-network_32px:before {
+  content: "\ea3a";
+}
+.icon-operating-system_32px:before {
+  content: "\ea3b";
+}
+.icon-streaming-satelite:before {
+  content: "\ea33";
+}
+.icon-streaming-dstv-app:before {
+  content: "\ea34";
+}
+.icon-streaming-devices:before {
+  content: "\ea35";
+}
+.icon-supermarket_32x32:before {
+  content: "\ea31";
+}
+.icon-add-movies:before {
+  content: "\ea26";
+}
+.icon-device-swap:before {
+  content: "\ea1d";
+}
+.icon-recharge-data:before {
+  content: "\ea1e";
+}
+.icon-sim-swap:before {
+  content: "\ea1f";
+}
+.icon-usage-address:before {
+  content: "\ea20";
+}
+.icon-camera:before {
+  content: "\ea1b";
+}
+.icon-debt-waiver:before {
+  content: "\ea17";
+}
+.icon-family-funeral-policy:before {
+  content: "\ea18";
+}
+.icon-manage-members:before {
+  content: "\ea19";
+}
+.icon-subscription-waiver:before {
+  content: "\ea1a";
+}
+.icon-ethernet_lan_port:before {
+  content: "\ea11";
+}
+.icon-hdmi_port:before {
+  content: "\ea12";
+}
+.icon-optical_port:before {
+  content: "\ea13";
+}
+.icon-power_port:before {
+  content: "\ea14";
+}
+.icon-unicable_port:before {
+  content: "\ea15";
+}
+.icon-usb_port:before {
+  content: "\ea16";
+}
+.icon-streama:before {
+  content: "\ea10";
+}
+.icon-add-decoders:before {
+  content: "\ea0c";
+}
+.icon-decoder:before {
+  content: "\ea0d";
+}
+.icon-contract:before {
+  content: "\ea09";
+}
+.icon-stay-connected:before {
+  content: "\ea0a";
+}
+.icon-heart_outline:before {
+  content: "\e9f8";
+}
+.icon-load-more:before {
+  content: "\e9f6";
+}
+.icon-heart:before {
+  content: "\e9f5";
+}
+.icon-sol-arrow-left:before {
+  content: "\e9f3";
+}
+.icon-sol-arrow-right:before {
+  content: "\e9f4";
+}
+.icon-rewards1:before {
+  content: "\e9e7";
+}
+.icon-boxoffice:before {
+  content: "\e9e8";
+}
+.icon-connected-explora:before {
+  content: "\e9e9";
+}
+.icon-dstv-now:before {
+  content: "\e9ea";
+}
+.icon-dstv-package:before {
+  content: "\e9eb";
+}
+.icon-explora:before {
+  content: "\e9ec";
+}
+.icon-joox:before {
+  content: "\e9ed";
+}
+.icon-marketing-opt-in:before {
+  content: "\e9ee";
+}
+.icon-payment-type:before {
+  content: "\e9ef";
+}
+.icon-showmax:before {
+  content: "\e9f0";
+}
+.icon-tenure:before {
+  content: "\e9f1";
+}
+.icon-xtraview:before {
+  content: "\e9f2";
+}
+.icon-cancel-in-circle:before {
+  content: "\e9e5";
+}
+.icon-comment:before {
+  content: "\e9e6";
+}
+.icon-dl_desktop:before {
+  content: "\e9e1";
+}
+.icon-dl_laptop:before {
+  content: "\e9e2";
+}
+.icon-dl_mobile:before {
+  content: "\e9e3";
+}
+.icon-lock:before {
+  content: "\e9df";
+}
+.icon-mailer:before {
+  content: "\e9e0";
+}
+.icon-rdp:before {
+  content: "\e9d3";
+}
+.icon-complex:before {
+  content: "\e9d4";
+}
+.icon-decoder-no:before {
+  content: "\e9d5";
+}
+.icon-decoder-yes:before {
+  content: "\e9d6";
+}
+.icon-double-storey:before {
+  content: "\e9d7";
+}
+.icon-headset:before {
+  content: "\e9d8";
+}
+.icon-single-storey:before {
+  content: "\e9d9";
+}
+.icon-tracking:before {
+  content: "\e9da";
+}
+.icon-tv-mix:before {
+  content: "\e9db";
+}
+.icon-tv2:before {
+  content: "\e9dc";
+}
+.icon-tv3:before {
+  content: "\e9dd";
+}
+.icon-tv4:before {
+  content: "\e9de";
+}
+.icon-cancel_letter:before {
+  content: "\e9d2";
+}
+.icon-letter:before {
+  content: "\e9ce";
+}
+.icon-wifi_32x32:before {
+  content: "\e9cd";
+}
+.icon-credit-card_64:before {
+  content: "\e9cb";
+}
+.icon-box-office_64:before {
+  content: "\e9cc";
+}
+.icon-mobile_app_64:before {
+  content: "\e9c9";
+}
+.icon-internet-payment_64:before {
+  content: "\e9ca";
+}
+.icon-walk-in-centres_thick:before {
+  content: "\e9c8";
+}
+.icon-decoder_model:before {
+  content: "\e9c7";
+}
+.icon-sport-tv:before {
+  content: "\e9c5";
+}
+.icon-kids-tv_old:before {
+  content: "\e9c6";
+}
+.icon-calendar_32x32:before {
+  content: "\e9c4";
+}
+.icon-dining:before {
+  content: "\e9bc";
+}
+.icon-eye:before {
+  content: "\e9bd";
+}
+.icon-happy-face:before {
+  content: "\e9be";
+}
+.icon-play-package:before {
+  content: "\e9bf";
+}
+.icon-stay-package:before {
+  content: "\e9c0";
+}
+.icon-user-plus:before {
+  content: "\e9c1";
+}
+.icon-work-package:before {
+  content: "\e9c2";
+}
+.icon-reconnect:before {
+  content: "\e9b9";
+}
+.icon-disconnect:before {
+  content: "\e9ba";
+}
+.icon-radio_button_checked-1:before {
+  content: "\e9b8";
+}
+.icon-arrow-short-carousel-left:before {
+  content: "\e9b4";
+}
+.icon-arrow-short-carousel-right:before {
+  content: "\e9b5";
+}
+.icon-announcement:before {
+  content: "\e9b6";
+}
+.icon-pencil:before {
+  content: "\e9b7";
+}
+.icon-set-reminder_32:before {
+  content: "\e9b2";
+}
+.icon-grid-v:before {
+  content: "\e9b3";
+}
+.icon-search-circle:before {
+  content: "\e99c";
+}
+.icon-share2_thick:before {
+  content: "\e983";
+}
+.icon-audio:before {
+  content: "\e97d";
+}
+.icon-play:before {
+  content: "\e97a";
+}
+.icon-login:before {
+  content: "\e979";
+}
+.icon-arrow-down_6px:before {
+  content: "\e90d";
+}
+.icon-arrow-long-left_6px:before {
+  content: "\e90e";
+}
+.icon-arrow-long-right_6px:before {
+  content: "\e90f";
+}
+.icon-arrow-medium-left_6px:before {
+  content: "\e910";
+}
+.icon-arrow-medium-right_6px:before {
+  content: "\e911";
+}
+.icon-arrow-short-left_6px:before {
+  content: "\e912";
+}
+.icon-arrow-short-right_6px:before {
+  content: "\e913";
+}
+.icon-arrow-up_6px:before {
+  content: "\e914";
+}
+.icon-arrow-down_4px:before {
+  content: "\e915";
+}
+.icon-arrow-long-left_4px:before {
+  content: "\e916";
+}
+.icon-arrow-long-right_4px:before {
+  content: "\e917";
+}
+.icon-arrow-medium-left_4px:before {
+  content: "\e918";
+}
+.icon-arrow-medium-right_4px:before {
+  content: "\e919";
+}
+.icon-arrow-short-left_4px:before {
+  content: "\e91a";
+}
+.icon-arrow-short-right_4px:before {
+  content: "\e91b";
+}
+.icon-arrow-up_4px:before {
+  content: "\e91c";
+}
+.icon-account:before {
+  content: "\e91d";
+}
+.icon-apple:before {
+  content: "\e91e";
+}
+.icon-available-ex:before {
+  content: "\e91f";
+}
+.icon-available-on-pvr:before {
+  content: "\e920";
+}
+.icon-available-online:before {
+  content: "\e921";
+}
+.icon-basket:before {
+  content: "\e922";
+}
+.icon-catch-up-play:before {
+  content: "\e923";
+}
+.icon-change-package:before {
+  content: "\e924";
+}
+.icon-close:before {
+  content: "\e925";
+}
+.icon-compare-package:before {
+  content: "\e926";
+}
+.icon-contact:before {
+  content: "\e927";
+}
+.icon-dashboard:before {
+  content: "\e928";
+}
+.icon-decoder-care-contract:before {
+  content: "\e929";
+}
+.icon-decoder-products:before {
+  content: "\e92a";
+}
+.icon-downloads:before {
+  content: "\e92b";
+}
+.icon-faqs:before {
+  content: "\e92c";
+}
+.icon-favourites:before {
+  content: "\e92d";
+}
+.icon-filter:before {
+  content: "\e92e";
+}
+.icon-find-a-dealer:before {
+  content: "\e92f";
+}
+.icon-find-an-installer:before {
+  content: "\e930";
+}
+.icon-fix-errors:before {
+  content: "\e931";
+}
+.icon-grid-view:before {
+  content: "\e932";
+}
+.icon-guest-checkout:before {
+  content: "\e933";
+}
+.icon-guide:before {
+  content: "\e934";
+}
+.icon-hamburger-nav:before {
+  content: "\e935";
+}
+.icon-hd:before {
+  content: "\e936";
+}
+.icon-help:before {
+  content: "\e937";
+}
+.icon-home:before {
+  content: "\e938";
+}
+.icon-how-to-pay:before {
+  content: "\e939";
+}
+.icon-info:before {
+  content: "\e93a";
+}
+.icon-kids-tv:before {
+  content: "\e93b";
+}
+.icon-link-smartcard:before {
+  content: "\e93c";
+}
+.icon-list:before {
+  content: "\e93d";
+}
+.icon-live-tv:before {
+  content: "\e93e";
+}
+.icon-logout:before {
+  content: "\e93f";
+}
+.icon-maintenance:before {
+  content: "\e940";
+}
+.icon-manage-profile:before {
+  content: "\e941";
+}
+.icon-minus:before {
+  content: "\e942";
+}
+.icon-minus-in-circle:before {
+  content: "\e943";
+}
+.icon-more:before {
+  content: "\e944";
+}
+.icon-newsalerts:before {
+  content: "\e945";
+}
+.icon-no-access:before {
+  content: "\e946";
+}
+.icon-not-streamable:before {
+  content: "\e947";
+}
+.icon-play-store:before {
+  content: "\e948";
+}
+.icon-plus:before {
+  content: "\e949";
+}
+.icon-plus-in-circle:before {
+  content: "\e94a";
+}
+.icon-profile:before {
+  content: "\e94b";
+}
+.icon-record:before {
+  content: "\e94c";
+}
+.icon-rewards:before {
+  content: "\e94d";
+}
+.icon-search:before {
+  content: "\e94e";
+}
+.icon-set-reminder:before {
+  content: "\e94f";
+}
+.icon-settings:before {
+  content: "\e950";
+}
+.icon-share1:before {
+  content: "\e951";
+}
+.icon-share2:before {
+  content: "\e952";
+}
+.icon-show:before {
+  content: "\e953";
+}
+.icon-sm_facebook_outline:before {
+  content: "\e954";
+}
+.icon-sm_facebook_solid:before {
+  content: "\e955";
+}
+.icon-sm_facebook-messenger_outline:before {
+  content: "\e956";
+}
+.icon-sm_facebook-messenger_solid:before {
+  content: "\e957";
+}
+.icon-sm_google_outline:before {
+  content: "\e958";
+}
+.icon-sm_google_solid:before {
+  content: "\e959";
+}
+.icon-sm_pinterest_outline:before {
+  content: "\e95a";
+}
+.icon-sm_pinterest_solid:before {
+  content: "\e95b";
+}
+.icon-sm_twitter_outline:before {
+  content: "\e95c";
+}
+.icon-sm_twitter_solid:before {
+  content: "\e95d";
+}
+.icon-sm_wechat_outline:before {
+  content: "\e95e";
+}
+.icon-sm_wechat_solid:before {
+  content: "\e95f";
+}
+.icon-sm_whatsapp_outline:before {
+  content: "\e960";
+}
+.icon-sm_whatsapp_solid:before {
+  content: "\e961";
+}
+.icon-sm_youtube_outline:before {
+  content: "\e962";
+}
+.icon-sm_youtube_solid:before {
+  content: "\e963";
+}
+.icon-tick:before {
+  content: "\e964";
+}
+.icon-tv:before {
+  content: "\e965";
+}
+.icon-view-balance:before {
+  content: "\e966";
+}
+.icon-warning:before {
+  content: "\e967";
+}
+.icon-watch:before {
+  content: "\e968";
+}
+.icon-play_icon_16px:before {
+  content: "\ea28";
+}
+.icon-qr_code_16px:before {
+  content: "\ea2b";
+}
+.icon-tv_explora_16px:before {
+  content: "\ea2e";
+}
+.icon-cancel-policy:before {
+  content: "\ea0e";
+}
+.icon-claim-insurance:before {
+  content: "\ea0f";
+}
+.icon-wk-dstv-tick-in-circle:before {
+  content: "\ea07";
+}
+.icon-wk-dstv-add-to-cart:before {
+  content: "\ea06";
+}
+.icon-rewards-benefit-challenges:before {
+  content: "\ea03";
+}
+.icon-rewards-benefit-competitions:before {
+  content: "\ea04";
+}
+.icon-rewards-benefit-instantly:before {
+  content: "\ea05";
+}
+.icon-imi-accounts:before {
+  content: "\ea00";
+}
+.icon-imi-all-messages:before {
+  content: "\ea01";
+}
+.icon-imi-dstv-rewards:before {
+  content: "\ea02";
+}
+.icon-imi-delete:before {
+  content: "\e9f9";
+}
+.icon-imi-important-updates:before {
+  content: "\e9fa";
+}
+.icon-imi-inbox:before {
+  content: "\e9fb";
+}
+.icon-imi-live-chat:before {
+  content: "\e9fc";
+}
+.icon-imi-mark-as-unread:before {
+  content: "\e9fd";
+}
+.icon-imi-offers:before {
+  content: "\e9fe";
+}
+.icon-imi-reminders:before {
+  content: "\e9ff";
+}
+.icon-text-great_wall:before {
+  content: "\ea4c";
+}
+.icon-text-ACCESSFEE:before {
+  content: "\ea49";
+}
+.icon-text-confam:before {
+  content: "\ea21";
+}
+.icon-text-french_plus:before {
+  content: "\ea22";
+}
+.icon-text-french_touch:before {
+  content: "\ea23";
+}
+.icon-text-padi:before {
+  content: "\ea24";
+}
+.icon-text-yanga:before {
+  content: "\ea25";
+}
+.icon-dstv-internet:before {
+  content: "\ea1c";
+}
+.icon-netflix-logo:before {
+  content: "\ea0b";
+}
+.icon-text-add-movies:before {
+  content: "\ea08";
+}
+.icon-joox_logo:before {
+  content: "\e9f7";
+}
+.icon-text-SHOWMAXADDON:before {
+  content: "\e9e4";
+}
+.icon-access-fee:before {
+  content: "\e9d1";
+}
+.icon-text-MNET:before {
+  content: "\e9cf";
+}
+.icon-text-SELECT:before {
+  content: "\e9d0";
+}
+.icon-text-ASIAKU:before {
+  content: "\e97b";
+}
+.icon-text-PORTKU:before {
+  content: "\e97c";
+}
+.icon-text-ACCESS:before {
+  content: "\e971";
+}
+.icon-text-EXTRKU:before {
+  content: "\e972";
+}
+.icon-text-COMPKU:before {
+  content: "\e973";
+}
+.icon-text-EASYKU:before {
+  content: "\e974";
+}
+.icon-text-FMLY:before {
+  content: "\e975";
+}
+.icon-text-ASIA3KU:before {
+  content: "\e976";
+}
+.icon-text-PORTASI:before {
+  content: "\e977";
+}
+.icon-text-PRM:before {
+  content: "\e978";
+}
+.icon-logo-access-fee:before {
+  content: "\e9c3";
+}
+.icon-logo-AnnuaIndian-Portuguesa:before {
+  content: "\e9ab";
+}
+.icon-logo-AnnualSelect:before {
+  content: "\e9ac";
+}
+.icon-logo-AnnualAccess:before {
+  content: "\e99f";
+}
+.icon-logo-AnnualCompact:before {
+  content: "\e9a0";
+}
+.icon-logo-AnnualCompactPlus:before {
+  content: "\e9a1";
+}
+.icon-logo-AnnualEasyView:before {
+  content: "\e9a2";
+}
+.icon-logo-AnnualFamily:before {
+  content: "\e9a3";
+}
+.icon-logo-AnnualPremium:before {
+  content: "\e9a4";
+}
+.icon-logo-Compact12:before {
+  content: "\e9a5";
+}
+.icon-logo-Compact24:before {
+  content: "\e9a6";
+}
+.icon-logo-CompactPlusPriceLock:before {
+  content: "\e9a7";
+}
+.icon-logo-CompactPriceLock:before {
+  content: "\e9a8";
+}
+.icon-logo-Premium24:before {
+  content: "\e9a9";
+}
+.icon-logo-PremiumPriceLock:before {
+  content: "\e9aa";
+}
+.icon-logo-ACCESS:before {
+  content: "\e969";
+}
+.icon-logo-EXTRKU:before {
+  content: "\e96a";
+}
+.icon-logo-COMPKU:before {
+  content: "\e96b";
+}
+.icon-logo-EASYKU:before {
+  content: "\e96c";
+}
+.icon-logo-FMLY:before {
+  content: "\e96d";
+}
+.icon-logo-ASIAKU:before {
+  content: "\e96e";
+}
+.icon-logo-PORTKU:before {
+  content: "\e96f";
+}
+.icon-logo-PRM:before {
+  content: "\e970";
+}
+.icon-momo_thin:before {
+  content: "\ea27";
+}
+.icon-atm_thin:before {
+  content: "\e900";
+}
+.icon-credit-card_thin:before {
+  content: "\e901";
+}
+.icon-debit-order_thin:before {
+  content: "\e902";
+}
+.icon-direct-deposit_thin:before {
+  content: "\e903";
+}
+.icon-internet-payment_thin:before {
+  content: "\e904";
+}
+.icon-masterpass_thin:before {
+  content: "\e905";
+}
+.icon-payment-link_thin:before {
+  content: "\e906";
+}
+.icon-qr_thin:before {
+  content: "\e907";
+}
+.icon-supermarket_thin:before {
+  content: "\e908";
+}
+.icon-ussd_thin:before {
+  content: "\e909";
+}
+.icon-visa_thin:before {
+  content: "\e90a";
+}
+.icon-walk-in-centres_thin:before {
+  content: "\e90b";
+}
+.icon-zapper_thin:before {
+  content: "\e90c";
+}
